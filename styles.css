@@ -1,0 +1,43 @@
+
+.headernav {
+    display: block;
+}
+a, p, body {
+    font-family: arial, sans-serif;
+}
+#navbar {
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+    width: 100%;
+
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+li:hover {
+    text-decoration: underline;
+    
+}
+#logo {
+    display: block;
+    position: static;
+    padding-top: 10em;
+    text-align: center;
+}
+#searchBar {
+    display: block;
+    position: static;
+    margin-top: 2em;
+    text-align: center;
+    margin-bottom: 2em;
+}
+#space {
+    line-height: 2em;
+}
+
+
+
